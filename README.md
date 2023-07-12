@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aria</h1>
-<h3 align="center">a computer engineering student at Shahid Beheshti university at Tehran</h3>
+<h3 align="center">a computer engineering student at Shahid Beheshti university in Tehran</h3>
 
 - 👯 I’m looking to collaborate on **Flutter or Java projects**
 
