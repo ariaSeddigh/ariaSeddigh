@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aria</h1>
 <h3 align="center">a computer engineering student at Shahid Beheshti university in Tehran</h3>
 
-- 👯 I’m looking to collaborate on **Flutter or Java projects**
+- 👯 I’m looking to collaborate on **Python or Java projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ariaSeddigh](https://github.com/ariaSeddigh)
 
