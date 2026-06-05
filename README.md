@@ -11,11 +11,14 @@
 ### 🚀 About Me
 
 • 🔭 Currently focusing on <b>Next.js + Django REST Framework</b>
-• 👯 Looking to collaborate on <b>Python (Django) or React/Next.js projects</b>
-• 🌱 Building modern full-stack apps with SSR, Server Components, and REST APIs
-• 👨‍💻 All my projects: <b>github.com/ariaSeddigh</b>
-• 📫 Reach me: <b>aria.seddigh@gmail.com</b>
 
+• 👯 Looking to collaborate on <b>Python (Django) or React/Next.js projects</b>
+
+• 🌱 Building modern full-stack apps with SSR, Server Components, and REST APIs
+
+• 👨‍💻 All my projects: <b>github.com/ariaSeddigh</b>
+
+• 📫 Reach me: <b>aria.seddigh@gmail.com</b>
 ---
 
 ### 🛠️ Tech Stack
